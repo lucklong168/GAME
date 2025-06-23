@@ -1,4 +1,5 @@
-<!DOCTYPE html>https://lucklong168.github.io/GAME/
+游戏网址：>https://lucklong168.github.io/GAME/
+<!DOCTYPE html
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
