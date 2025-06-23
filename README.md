@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>https://lucklong168.github.io/GAME/
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
